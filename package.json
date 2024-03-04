@@ -1,0 +1,16 @@
+{
+  "name": "bigdata",
+  "version": "1.0.0",
+  "description": "BigDataCrud",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammed Emin Beköz",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "6.3"
+  }
+}
